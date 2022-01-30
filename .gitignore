@@ -2,3 +2,4 @@
 all-rnr-annotated-threads
 convert_veracity_annotations.py
 PHEME_veracity.tar.bz2
+dataset_tree.json
